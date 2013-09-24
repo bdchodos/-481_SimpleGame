@@ -1,5 +1,7 @@
 -481_SimpleGame
 ===============
+GIT URL: https://github.com/bdchodos/-481_SimpleGame
+
 The game I created is a take off of a classic memory game.
 The game board has twenty grey buttons, each button is also
 associated with one of ten unique colors (2 each). When a button is
